@@ -1,0 +1,5 @@
+vocal1=input("Ingrese una vocal en minusculas: ")
+vocal2=input("Ingrese una vocal en mayusculas: ")
+print("Minusculas a mayusculas",vocal1,vocal1.upper())
+print("Mayusculas a minusculas",vocal2,vocal2.lower())
+print("Concatenacion de vocales",vocal1+vocal2)

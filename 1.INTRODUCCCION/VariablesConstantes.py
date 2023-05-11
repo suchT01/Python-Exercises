@@ -1,0 +1,1 @@
+cantidadpersonas = 100
